@@ -1,14 +1,19 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+/* nombre navbar*/
+.cupon{
+  max-height: 15px;
+}
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+  background-image: url("../img/WhatsApp\ Image\ 2025-01-13\ at\ 23.03.14.jpeg");
+  
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  height: 100%;
 }
 
 /* Mis trabajos */
